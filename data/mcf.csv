@@ -1,0 +1,13 @@
+Type of treatment and discharge pathway or system, MCF, MCF (Range),EF (kg CH4/kg BOD),EF (kg CH4/kg COD)
+Discharge to aquatic environments (Tier 1),0.11, (0.004 – 0.27),0.068,0.028
+"Discharge to aquatic environments other than reservoirs, lakes, and estuaries (Tier 2)",0.035, (0.004 – 0.06),0.021,0.009
+"Discharge to reservoirs, lakes, and estuaries (Tier 2)",0.19, (0.08 – 0.27),0.114,0.048
+Stagnant sewer,0.5, (0.4 – 0.8),0.3,0.125
+Flowing sewer (open or closed),0,0,0.0,0.0
+"Centralised, aerobic treatment plant",0.034, (0.003 – 0.09),0.018,0.0075
+"Anaerobic reactor (e.g., upflow anaerobic sludge blanket digestion (UASB))",0.8, (0.8 – 1.0),0.48,0.2
+Anaerobic shallow lagoon and facultative lagoons,0.2, (0 – 0.3),0.12,0.05
+Anaerobic deep lagoon,0.8, (0.8 – 1.0),0.48,0.2
+Septic tank,0.5, (0.4 – 0.72),0.3,0.125
+Septic tank + land dispersal field,0.5, (0.4 – 0.72),0.3,0.125
+Latrine, 0.7, (0.7-1.0), 0.42, 0.175

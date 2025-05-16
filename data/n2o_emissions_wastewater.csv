@@ -1,0 +1,9 @@
+Type of treatment and discharge pathway or system,EF (kg N2O-N/kg N),Range
+"Freshwater, estuarine, and marine discharge (Tier 1)",0.005,0.0005 – 0.075
+"Nutrient-impacted and/or hypoxic freshwater, estuarine, and marine environments (Tier 3, if needed)",0.019,0.0041 – 0.091
+"Centralised, aerobic treatment plant",0.016,0.00016 – 0.045
+Anaerobic reactor,0,0 – 0.001
+Anaerobic lagoons,0,0 – 0.001
+Septic tank,0,0 – 0.001
+Septic tank + land dispersal field,0.0045,0 – 0.005
+Latrine,0,0 – 0.001

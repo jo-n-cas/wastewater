@@ -1,0 +1,8 @@
+Treatment Type,Default,Range
+No treatment,0,0
+Primary (mechanical),0.10,0.05–0.20
+Secondary (biological),0.40,0.35–0.55
+Tertiary (advanced biological),0.80,0.45–0.85
+Septic tank,0.15,0.10–0.25
+Septic tank + land dispersal field,0.68,0.62–0.73
+Latrine,0.12,0.07–0.21
